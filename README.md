@@ -1,6 +1,12 @@
 # BiT Todo List 
+
 ~~Create this Todo list~~ haha
-##Projects
+
+## Projects
+
 Coming Soon
-##Lessons
+
+## Lessons
+
 Coming Soon
+
