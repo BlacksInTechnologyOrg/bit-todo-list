@@ -1,6 +1,9 @@
 # BiT Todo List 
-
 ~~Create this Todo list~~ haha
+
+## Volunteer with BIT!
+https://www.blacksintechnology.net/volunteer-blacks-technology/
+
 ## Projects
 - Create an online Junto that can be used to help students and other BIT members grow intellectually and professionally. https://en.wikipedia.org/wiki/Junto_(club) 
 
